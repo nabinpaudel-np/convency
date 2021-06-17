@@ -1,0 +1,43 @@
+html,
+body {
+    background-color: rgba(138, 18, 18, 0.712);
+    margin: 1em 8%;
+}
+
+body{
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    text-decoration: whitesmoke;
+}
+
+
+p{
+    color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+
+span{
+    color: whitesmoke;
+    font-size: 300%;
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(88, 54, 54);
+    color: white;
+    text-align: center;
+ }
+
+ .footer a{
+     text-decoration: none;
+     color: white;
+ }
